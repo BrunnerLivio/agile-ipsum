@@ -1,21 +1,50 @@
-import React from "react"
-import { Link } from "gatsby"
+import React, { useState } from "react"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
+import { loremIpsum } from "lorem-ipsum"
 
-const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+const IndexPage = ({ data }) => {
+  const words = data.site.siteMetadata.words
+
+  const [paragraphs, setParagraphs] = useState(1)
+  let count = 1;
+  if (parseInt(paragraphs) !== NaN && parseInt(paragraphs) > 0) {
+    count = parseInt(paragraphs);
+  }
+  const ipsum = loremIpsum({
+    units: "paragraphs",
+    count,
+    words,
+    format: 'html'
+  })
+  return (
+    <Layout>
+      <SEO title="Home" />
+      <form>
+        <div>
+          <label  htmlFor="paragraphs">Paragraphs:</label>
+          <input
+            name="paragraphs"
+            min="1"
+            type="number"
+            value={paragraphs}
+            onChange={e => setParagraphs(e.target.value)}
+          />
+        </div>
+      </form>
+      <div class="ipsum" dangerouslySetInnerHTML={{__html: ipsum}} />
+    </Layout>
+  )
+}
 
 export default IndexPage
+export const pageQuery = graphql`
+  query ProjectsQuery {
+    site {
+      siteMetadata {
+        words
+      }
+    }
+  }
+`
