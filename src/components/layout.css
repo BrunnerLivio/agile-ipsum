@@ -625,3 +625,13 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
+
+.ipsum {
+  background: rgba(0,0,0,0.03);
+  padding: 16px;
+  border-radius: 8px; 
+}
+
+input.paragraphs {
+  margin-left: 8px;
+}

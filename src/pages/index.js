@@ -7,9 +7,9 @@ import { loremIpsum } from "lorem-ipsum"
 const IndexPage = ({ data }) => {
   const words = data.site.siteMetadata.words
 
-  const [paragraphs, setParagraphs] = useState(1)
-  let count = 1;
-  if (parseInt(paragraphs) !== NaN && parseInt(paragraphs) > 0) {
+  let count = 3;
+  const [paragraphs, setParagraphs] = useState(count)
+  if (!isNaN(paragraphs) && parseInt(paragraphs) > 0) {
     count = parseInt(paragraphs);
   }
   const ipsum = loremIpsum({
@@ -25,6 +25,7 @@ const IndexPage = ({ data }) => {
         <div>
           <label  htmlFor="paragraphs">Paragraphs:</label>
           <input
+            class="paragraphs"
             name="paragraphs"
             min="1"
             type="number"
