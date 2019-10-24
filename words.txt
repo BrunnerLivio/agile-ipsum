@@ -10,3 +10,8 @@ developer
 planning
 PI
 review
+increment
+kanban
+task
+scrum master
+stakeholder
