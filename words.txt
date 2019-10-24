@@ -1,6 +1,12 @@
-Agile
-Sprint
+agile
+sprint
 SAFe
-Mindset
-Scrum
-Retrospective
+scrum
+retrospective
+feature
+milestone
+product owner
+developer
+planning
+PI
+review
