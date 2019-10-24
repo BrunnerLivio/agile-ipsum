@@ -3,3 +3,4 @@ Sprint
 SAFe
 Mindset
 Scrum
+Retrospective
