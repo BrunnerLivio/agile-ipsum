@@ -26,7 +26,7 @@ In addition to this, it also contains:
 
 - [Code of Conduct](CODE_OF_CONDUCT.md) - our Code of Conduct
 - [Contributing Guidelines](CONTRIBUTING.md) - a guide on how to contribute to the Agile Ipsum repository
-- [License.md](LICENSE.md) - the standard MIT license under which the Agile Ipsum website is published
+- [License](LICENSE.md) - the standard MIT license under which the Agile Ipsum website is published
 
 We recommend familiarizing yourself with the above sections, particularly if you are looking to make a contribution.
 

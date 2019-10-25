@@ -69,8 +69,6 @@ To the right of the branch you will see a button that says 'New pull request', c
 
 Congratulations, you've just made your first pull request to the Agile Ipsum repository!
 
-The rest of this section relates to other scenarios you may encounter whilst contributing and may not be applicable just yet, so feel free to [read ahead](#platform-and-usage-documentation). If you want to know what you should do in the event changes are requested to your pull request, or your master branch becomes out of sync with the official repository, read on below:
-
 ### Master Branch out of Sync
 
 This is very common and happens when changes are made to the official repository, meaning your fork is suddenly out of date. The only time you need to consider this is before you create a new branch, this means that whenever you start working on changes, your branch will always be up to date as of that moment.
