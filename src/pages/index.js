@@ -17,7 +17,8 @@ const IndexPage = ({ data }) => {
     count,
     words,
     format: 'html'
-  })
+  }).replace(/\b(\w+)(\s+\1)+\b/ig, "$1"); // de-duplicate words
+  
   return (
     <Layout>
       <SEO title="Home" />
