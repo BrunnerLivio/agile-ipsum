@@ -6,7 +6,7 @@ The following describes how to contribute to the Agile Ipsum repository.
 
 ## Reporting Issues
 
-If you have found a bug, spelling mistake, or anything related to an example that you feel could be improved, please create a new issue here on GitHub.
+If you have found a bug, spelling mistake, or anything related to the words that you feel could be improved, please create a new issue here on GitHub.
 
 An issue can be raised by clicking the 'Issues' tab at the top of the repository, followed by the Green 'New issue' button. When submitting an issue, please thoroughly and concisely describe the problem you are experiencing, or improvement you feel could be made, so that we may easily understand and resolve the issue in a timely manner.
 
@@ -39,7 +39,7 @@ If successful, you should see the forked repository being cloned to your local e
 
 To add the remote path for the official git repository, enter the following:
 
-`git remote add upstream git@github.com:zeit/docs.git`
+`git clone git@github.com:brunnerlivio/agile-ipsum.git`
 
 This command adds a new remote branch, with the name 'upstream'. If you ever want to pull the recent changes to update your local fork you can use the following command:
 
