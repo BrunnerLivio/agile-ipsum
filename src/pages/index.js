@@ -28,6 +28,7 @@ const IndexPage = ({ data }) => {
             class="paragraphs"
             name="paragraphs"
             min="1"
+            max="10000"
             type="number"
             value={paragraphs}
             onChange={e => setParagraphs(e.target.value)}
