@@ -18,3 +18,5 @@ stakeholder
 mindset
 backlog
 user stories
+controversial
+misalignment
