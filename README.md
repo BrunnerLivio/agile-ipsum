@@ -65,7 +65,7 @@ npm start
 
 **Building the website for producton**
 
-The production bundle will get automatically minified and bundled. In order to build the project, simply run the following command.
+The production bundle will get automatically minified and bundled. In order to build the project, simply run the following command. You will find the built assets in the `public/` folder.
 
 ```bash
 npm run build
