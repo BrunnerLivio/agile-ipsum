@@ -17,6 +17,8 @@ scrum master
 stakeholder
 mindset
 backlog
+user stories
+LESS
 iteration
 commit
 freaky friday
