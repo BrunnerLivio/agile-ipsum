@@ -8,7 +8,8 @@ var _ = require('lodash');
 
 
 const IndexPage = ({ data }) => {
-  const words = data.site.siteMetadata.words
+
+  const words = data.site.siteMetadata.dict.noun
   const dict = data.site.siteMetadata.dict
 
 
@@ -110,7 +111,6 @@ export const pageQuery = graphql`
   query ProjectsQuery {
     site {
       siteMetadata {
-        words,
         dict {phrase, role, noun, adjective, verb}
       }
     }
