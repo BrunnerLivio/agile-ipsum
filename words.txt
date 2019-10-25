@@ -19,3 +19,9 @@ mindset
 backlog
 user stories
 LESS
+iteration
+commit
+freaky friday
+controversial
+misalignment
+Shane
