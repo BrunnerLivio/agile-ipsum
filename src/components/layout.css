@@ -635,3 +635,7 @@ body {
 input.paragraphs {
   margin-left: 8px;
 }
+
+.error {
+  color: red;
+}
