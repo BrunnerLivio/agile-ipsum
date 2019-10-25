@@ -17,7 +17,9 @@ scrum master
 stakeholder
 mindset
 backlog
-user stories
 iteration
 commit
 freaky friday
+controversial
+misalignment
+Shane
