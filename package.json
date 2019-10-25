@@ -19,6 +19,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "jest": "^24.9.0",
     "prettier": "^1.18.2"
   },
   "keywords": [
@@ -31,7 +32,8 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -39,5 +41,19 @@
   },
   "bugs": {
     "url": "https://github.com/BrunnerLivio/agile-ipsum/issues"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "jsx"
+    ],
+    "rootDir": "test",
+    "testRegex": ".js$",
+    "collectCoverageFrom": [
+      "**/*.(t|j)s"
+    ],
+    "coverageDirectory": "../coverage",
+    "testEnvironment": "node"
   }
 }
