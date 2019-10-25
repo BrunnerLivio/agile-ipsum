@@ -17,3 +17,4 @@ scrum master
 stakeholder
 mindset
 backlog
+user stories
