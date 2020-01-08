@@ -40,7 +40,8 @@ const dict = {
         "Agile Style Script (ASS)",
         "Agile Cyborg Security (ACS)",
         "Fist of Five",
-        "Time to Market"
+        "Time to Market",
+	"Release Train Engineer (RTE)"
     ],
     "verb": [
         "review",
