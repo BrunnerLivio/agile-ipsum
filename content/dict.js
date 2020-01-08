@@ -26,6 +26,7 @@ const dict = {
         "backlog",
         "user stories",
         "burn down",
+		"Test",
         "LESS",
         "iteration",
         "commit",
@@ -41,7 +42,8 @@ const dict = {
         "Agile Cyborg Security (ACS)",
         "Fist of Five",
         "Time to Market",
-	"Release Train Engineer (RTE)"
+	      "Release Train Engineer (RTE)",
+        "daily standup"
     ],
     "verb": [
         "review",
@@ -51,7 +53,8 @@ const dict = {
     ],
     "adjective": [
         "agile",
-        "sprint"
+        "sprint",
+		"lean"
     ]
 
 }
