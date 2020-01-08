@@ -26,6 +26,7 @@ const dict = {
         "backlog",
         "user stories",
         "burn down",
+		"Test",
         "LESS",
         "iteration",
         "commit",
