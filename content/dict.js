@@ -12,6 +12,7 @@ const dict = {
         "agile",
         "sprint",
         "SAFe",
+        "comfagile",
         "scrum",
         "retrospective",
         "feature",
