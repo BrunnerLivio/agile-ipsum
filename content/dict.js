@@ -44,12 +44,14 @@ const dict = {
     ],
     "verb": [
         "review",
+		"release",
         "visualize",
         "monitor",
         "extrapolate"
     ],
     "adjective": [
         "agile",
+		"clean",
         "sprint"
     ]
 
