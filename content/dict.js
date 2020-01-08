@@ -3,54 +3,35 @@ const dict = {
         "As a {{role}}, I want to {{verb}} {{noun}} so that I can {{verb}} {{adjective}} {{noun}} to {{verb}} {{adjective}} {{noun}}."
     ],
     "role": [
-        "product owner",
-        "developer",
-        "scrum master",
-        "stakeholder"
+        "Schatz",
+        "Liebling",
+        "Cooler Typ"
     ],
     "noun": [
-        "agile",
-        "sprint",
-        "SAFe",
-        "scrum",
-        "retrospective",
-        "feature",
-        "milestone",
-        "planning",
+        "Urs",
+        "Felber",
+        "Swisscom",
+        "YOGA",
+        "Windows",
+        "Tommy Hilfiger",
+        "Sempach",
+        "Cool",
         "PI",
-        "review",
-        "increment",
-        "kanban",
-        "task",
-        "mindset",
-        "backlog",
-        "user stories",
-        "burn down",
-        "LESS",
-        "iteration",
-        "commit",
-        "freaky friday",
-        "controversial",
-        "misalignment",
-        "Shane",
-        "Lean",
-        "story point",
-        "Feedback",
-        "DevOps",
-        "Agile Style Script (ASS)",
-        "Agile Cyborg Security (ACS)",
-        "Fist of Five",
-        "Time to Market"
+        "Chef",
+        "Old but gold",
+        "Brille",
+        "Hugo Boss",
+        "Jaguar",
+        "Maserati",
+        "Villa",
+        "Uhr"
     ],
     "verb": [
-        "review",
-        "visualize",
-        "monitor",
-        "extrapolate"
+        "nice"
     ],
     "adjective": [
-        "agile",
-        "sprint"
+        "5G",
+        "Urs"
     ]
 
 }
