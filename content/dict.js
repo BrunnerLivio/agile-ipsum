@@ -50,7 +50,8 @@ const dict = {
     ],
     "adjective": [
         "agile",
-        "sprint"
+        "sprint",
+		"lean"
     ]
 
 }
