@@ -43,18 +43,29 @@ const dict = {
         "Agile Cyborg Security (ACS)",
         "Fist of Five",
         "Time to Market",
-        "daily standup"
+        "daily standup",
+        "deadline",
+        "management",
+        "KISS",
+        "communication",
+        "scrum board"
     ],
     "verb": [
         "review",
         "visualize",
         "monitor",
-        "extrapolate"
+        "extrapolate",
+        "improve",
+        "improvise",
+        "adapt",
+        "overcome"
     ],
     "adjective": [
         "agile",
         "sprint",
-		"lean"
+        "lean",
+        "fast",
+        "modern"
     ]
 
 }
