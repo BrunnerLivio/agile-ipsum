@@ -57,6 +57,7 @@ const dict = {
         "review",
         "visualize",
         "monitor",
+		"decline",
         "extrapolate",
         "improve",
         "improvise",
