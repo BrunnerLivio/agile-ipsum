@@ -55,6 +55,7 @@ const dict = {
     ],
     "verb": [
         "review",
+		"revel",
         "visualize",
         "monitor",
         "extrapolate",
