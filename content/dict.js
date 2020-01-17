@@ -51,7 +51,8 @@ const dict = {
         "management",
         "KISS",
         "communication",
-        "scrum board"
+        "scrum board",
+        "Jud"
     ],
     "verb": [
         "review",
