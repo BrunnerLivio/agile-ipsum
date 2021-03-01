@@ -11,6 +11,7 @@ const dict = {
     ],
     "noun": [
         "agile",
+		"easter egg",
         "corndog",
         "sprint",
         "SAFe",
