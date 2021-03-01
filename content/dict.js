@@ -20,6 +20,8 @@ const dict = {
         "planning",
         "PI",
         "review",
+		"Egloff",
+		"Daniel"
 	"SoDa",
 	"Software Development Agile",
 	"Burndown Chart",
@@ -62,7 +64,9 @@ const dict = {
         "improve",
         "improvise",
         "adapt",
-        "overcome"
+        "overcome",
+		"egloffd",
+		"spassti"
     ],
     "adjective": [
         "agile",
