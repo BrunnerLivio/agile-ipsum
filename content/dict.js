@@ -21,7 +21,7 @@ const dict = {
         "PI",
         "review",
 		"Egloff",
-		"Daniel"
+		"Daniel",
 	"SoDa",
 	"Software Development Agile",
 	"Burndown Chart",
