@@ -10,6 +10,7 @@ const dict = {
         "cool person"
     ],
     "noun": [
+        "easter egg",
         "agile",
         "corndog",
         "sprint",
