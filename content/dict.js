@@ -9,7 +9,7 @@ const dict = {
         "stakeholder"
     ],
     "noun": [
-		"easter egg"
+        "easter egg",
         "agile",
         "sprint",
         "SAFe",
