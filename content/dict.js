@@ -6,7 +6,8 @@ const dict = {
         "product owner",
         "developer",
         "scrum master",
-        "stakeholder"
+        "stakeholder",
+        "cool person"
     ],
     "noun": [
         "agile",
