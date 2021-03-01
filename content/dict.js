@@ -10,6 +10,7 @@ const dict = {
     ],
     "noun": [
         "agile",
+        "corndog",
         "sprint",
         "SAFe",
         "comfagile",
