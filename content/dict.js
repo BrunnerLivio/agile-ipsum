@@ -21,9 +21,9 @@ const dict = {
         "planning",
         "PI",
         "review",
-	"SoDa",
-	"Software Development Agile",
-	"Burndown Chart",
+        "SoDa",
+        "Software Development Agile",
+        "Burndown Chart",
         "increment",
         "kanban",
         "task",
@@ -31,7 +31,7 @@ const dict = {
         "backlog",
         "user stories",
         "burn down",
-		"Test",
+        "Test",
         "LESS",
         "iteration",
         "commit",
@@ -52,25 +52,28 @@ const dict = {
         "management",
         "KISS",
         "communication",
-        "scrum board"
+        "scrum board",
+        "corruption"
     ],
     "verb": [
         "review",
-		"revel",
+        "revel",
         "visualize",
         "monitor",
         "extrapolate",
         "improve",
         "improvise",
         "adapt",
-        "overcome"
+        "overcome",
+        "exagerate"
     ],
     "adjective": [
         "agile",
         "sprint",
         "lean",
         "fast",
-        "modern"
+        "modern",
+        "lightweight"
     ]
 
 }
