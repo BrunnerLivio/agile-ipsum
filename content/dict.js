@@ -70,6 +70,7 @@ const dict = {
         "lean",
         "fast",
         "modern"
+		"hallo"
     ]
 
 }
