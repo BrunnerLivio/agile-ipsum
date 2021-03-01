@@ -9,10 +9,10 @@ const dict = {
         "stakeholder"
     ],
     "noun": [
-        "agile",
+        "ugly",
         "sprint",
         "SAFe",
-        "comfagile",
+        "comfugly",
         "scrum",
         "retrospective",
         "feature",
@@ -21,7 +21,7 @@ const dict = {
         "PI",
         "review",
 	"SoDa",
-	"Software Development Agile",
+	"Software Development ugly",
 	"Burndown Chart",
         "increment",
         "kanban",
@@ -42,8 +42,8 @@ const dict = {
         "story point",
         "Feedback",
         "DevOps",
-        "Agile Style Script (ASS)",
-        "Agile Cyborg Security (ACS)",
+        "ugly Style Script (ASS)",
+        "ugly Cyborg Security (ACS)",
         "Fist of Five",
         "Time to Market",
         "daily standup",
@@ -65,7 +65,7 @@ const dict = {
         "overcome"
     ],
     "adjective": [
-        "agile",
+        "ugly",
         "sprint",
         "lean",
         "fast",
