@@ -23,6 +23,7 @@ const dict = {
         "planning",
         "PI",
         "review",
+		"saladsauce"
 	"SoDa",
 	"Software Development Agile",
 	"Burndown Chart",
