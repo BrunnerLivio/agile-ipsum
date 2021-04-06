@@ -79,5 +79,5 @@ const dict = {
 
 }
 
-
+ok
 module.exports = dict
