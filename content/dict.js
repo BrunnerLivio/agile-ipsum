@@ -7,7 +7,8 @@ const dict = {
         "developer",
         "scrum master",
         "stakeholder",
-        "cool person"
+        "cool person",
+        "whatever"
     ],
     "noun": [
 	"ulag",
