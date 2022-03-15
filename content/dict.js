@@ -34,7 +34,7 @@ const dict = {
         "user stories",
         "burn down",
 		"Test",
-        "LESS",
+        "Hallo",
         "iteration",
         "commit",
         "freaky friday",
