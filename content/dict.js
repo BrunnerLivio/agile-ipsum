@@ -11,7 +11,7 @@ const dict = {
     ],
     "noun": [
 	"ulag",
-        "agile",
+        "trash",
         "corndog",
         "sprint",
         "SAFe",
