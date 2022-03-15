@@ -1,19 +1,26 @@
 const dict = {
     "phrase": [
-        "As a {{role}}, I want to {{verb}} {{noun}} so that I can {{verb}} {{adjective}} {{noun}} to {{verb}} {{adjective}} {{noun}}."
+        "As a {{role}}, I want to {{verb}} {{noun}} so that I can {{verb}} {{adjective}} {{noun}} to {{verb}} {{adjective}} {{noun}}.",
+        "We're Hiring! Are you our next {{adjective}} {{role}}? You will create {{adjective}} {{noun}} and work together with our {{adjective}} {{role}}.",
+        "Aww crap, our {{adjective}} {{role}} messed up the {{adjective}} {{noun}} again. Now we are blocked! Please {{verb}} the {{noun}} so we can meet our sprint goal.",
+
     ],
     "role": [
-        "product owner",
-        "developer",
-        "scrum master",
-        "stakeholder",
-        "cool person",
-        "whatever"
+        "Product Owner",
+        "Developer",
+        "Scrum Master",
+        "Stakeholder",
+        "Release Train Engineer",
+        "Product Manager",
+        "Jira Engineer",
+        "\"DevOps\" guy",
+        "10x Engineer",
+        "Developer Advocate",
+        "Enterprise Architect",
     ],
     "noun": [
 	    "ulag",
         "agile",
-        "corndog",
         "sprint",
         "SAFe",
         "comfagile",
@@ -24,9 +31,9 @@ const dict = {
         "planning",
         "PI",
         "review",
-	"SoDa",
-	"Software Development Agile",
-	"Burndown Chart",
+	    "SoDa",
+	    "Software Development Agile",
+	    "Burndown Chart",
         "increment",
         "kanban",
         "task",
@@ -34,7 +41,6 @@ const dict = {
         "backlog",
         "user stories",
         "burn down",
-		"Test",
         "LESS",
         "iteration",
         "commit",
@@ -55,7 +61,12 @@ const dict = {
         "management",
         "KISS",
         "communication",
-        "scrum board"
+        "scrum board",
+        "Jira",
+        "Deployment",
+        "CI/CD",
+        "Prod Deployment",
+        "Dev Environment"
     ],
     "verb": [
         "review",
@@ -71,12 +82,25 @@ const dict = {
         "randomize"
     ],
     "adjective": [
-        "agile",
-        "sprint",
         "lean",
         "fast",
         "modern",
-        "stupid"
+        "stupid",
+        "awesome",
+        "ugly",
+        "attractive",
+        "bald",
+        "beautiful",
+        "elegant",
+        "fit",
+        "angry",
+        "clumsy",
+        "grumpy",
+        "huge",
+        "massive",
+        "handsome",
+        "skinny",
+        "lazy"
     ]
 
 }
