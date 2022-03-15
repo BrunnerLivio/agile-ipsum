@@ -7,7 +7,8 @@ const dict = {
         "developer",
         "scrum master",
         "stakeholder",
-        "cool person"
+        "cool person",
+        "genius"
     ],
     "noun": [
 	"ulag",
@@ -66,7 +67,8 @@ const dict = {
         "improvise",
         "adapt",
         "overcome",
-        "generate"
+        "generate",
+        "deploy"
     ],
     "adjective": [
         "agile",
@@ -74,7 +76,8 @@ const dict = {
         "lean",
         "fast",
         "modern",
-        "stupid"
+        "stupid",
+        "safe"
     ]
 
 }
