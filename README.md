@@ -20,7 +20,7 @@ latin-looking words, the Agile Ipsum generates placeholder texts with **agile bu
 
 ## What Does this Repository Contain?
 
-This repository contains a website, built with a static site generator called [GatsbyJS](https://www.gatsbyjs.org/). The agile words are being stored in the [`words.txt`](https://github.com/BrunnerLivio/agile-ipsum/blob/master/words.txt) file, which are being read while building the website.
+This repository contains a website, built with a static site generator called [GatsbyJS](https://www.gatsbyjs.org/). The agile words are being stored in the [`dict.js`](content/dict.js) file, which are being read while building the website.
 
 In addition to this, it also contains:
 

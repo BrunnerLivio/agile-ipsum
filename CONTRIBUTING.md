@@ -13,11 +13,11 @@ An issue can be raised by clicking the 'Issues' tab at the top of the repository
 ## Contributing Content
 
 We highly welcome contributions on this repository. To extend the vocabulary of the generator,
-you can add new words in the [words.txt](https://github.com/BrunnerLivio/agile-ipsum/blob/master/words.txt) file. 
+you can add new words in the [dict.js](content/dict.js) file. 
 
 When contributing a new word, we kindly ask that you follow the steps below:
 
-- Add your new agile word(s) into the [words.txt](https://github.com/BrunnerLivio/agile-ipsum/blob/master/words.txt) file. Each new line will be read as a seperate word and can be placed in any order by the generator.
+- Add your new agile word(s) into the [dict.js](content/dict.js) file. Each new line will be read as a seperate word and can be placed in any order by the generator.
 - Check before-hand whether your new added word is not a duplicate.
 
 When contributing a new word, please fork this repository and then add your example before submitting a pull request. If you are not sure how to do this then please take a look at the [Forking Workflow](#forking-workflow) below.
