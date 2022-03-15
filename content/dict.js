@@ -72,6 +72,7 @@ const dict = {
         "agile",
         "sprint",
         "lean",
+	"unreadable",
         "fast",
         "modern",
         "stupid"
