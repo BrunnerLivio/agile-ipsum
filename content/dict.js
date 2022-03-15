@@ -74,7 +74,8 @@ const dict = {
         "lean",
         "fast",
         "modern",
-        "stupid"
+        "stupid",
+        "cool"
     ]
 
 }
