@@ -3,7 +3,8 @@ const dict = {
         "As a {{role}}, I want to {{verb}} {{noun}} so that I can {{verb}} {{adjective}} {{noun}} to {{verb}} {{adjective}} {{noun}}.",
         "We're Hiring! Are you our next {{adjective}} {{role}}? You will create {{adjective}} {{noun}} and work together with our {{adjective}} {{role}}.",
         "Aww crap, our {{adjective}} {{role}} messed up the {{adjective}} {{noun}} again. Now we are blocked! Please {{verb}} the {{noun}} so we can meet our sprint goal.",
-
+	"HR announced that one {{adjective}} {{role}} didn't {{verb}} the {{noun}}. Therefore his/her contract has been terminated.",
+	"CTO believes {{noun}} is the new hot thing. Therefore she hired 200 new {{adjective}} {{role}}s to implement it within the company.",
     ],
     "role": [
         "Product Owner",
@@ -17,6 +18,9 @@ const dict = {
         "10x Engineer",
         "Developer Advocate",
         "Enterprise Architect",
+	"Vendor Management",
+	"CTO",
+	"CEO",
     ],
     "noun": [
 	    "ulag",
@@ -63,10 +67,13 @@ const dict = {
         "communication",
         "scrum board",
         "Jira",
-        "Deployment",
+        "deployment",
         "CI/CD",
-        "Prod Deployment",
-        "Dev Environment"
+        "prod Deployment",
+        "dev Environment",
+	"Metaverse",
+	"big data",
+	"AI",
     ],
     "verb": [
         "review",
