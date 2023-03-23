@@ -5,6 +5,8 @@ const dict = {
         "Aww crap, our {{adjective}} {{role}} messed up the {{adjective}} {{noun}} again. Now we are blocked! Please {{verb}} the {{noun}} so we can meet our sprint goal.",
 	"HR announced that one {{adjective}} {{role}} didn't {{verb}} the {{noun}}. Therefore his/her contract has been terminated.",
 	"CTO believes {{noun}} is the new hot thing. Therefore she hired 200 new {{adjective}} {{role}}s to implement it within the company.",
+	"Dear {{role}}, thank you for your email. I wanted to get back to you about that \"{{adjective}} {{noun}}\" you were talking about. Would you mind having a coffee with me and {{role}}?",
+	"I haven't seen our {{adjective}} {{role}} recently. Is he on vacation again? He needs to finish the {{adjective}} {{noun}} together with the {{adjective}} {{role}}."
     ],
     "role": [
         "Product Owner",
@@ -24,7 +26,6 @@ const dict = {
         "Agile Coach",
     ],
     "noun": [
-	    "ulag",
         "agile",
         "sprint",
         "SAFe",
@@ -87,6 +88,11 @@ const dict = {
         "product roadmap",
         "sprint boundary",
         "scrum values",
+	"crypto",
+	"web3",
+	"NFTs",
+	"AI",
+	"Chat GPT",
     ],
     "verb": [
         "review",
