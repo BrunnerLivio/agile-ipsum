@@ -91,7 +91,6 @@ const dict = {
 	"crypto",
 	"web3",
 	"NFTs",
-	"AI",
 	"Chat GPT",
     ],
     "verb": [
